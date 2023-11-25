@@ -1,0 +1,15 @@
+DESCRIPTION OF THE PROJECT
+
+This project is simulating a blog post platform.
+
+1.FEATURES
+    -Navigation bar: MainPage, PostBlog, About
+    -Search bar: It will help to search for a specific post in the blog
+2. Details
+    -MainPage: the main page contains all of the posts that have been published. It is the starting page of the Application
+    -Post: Each post has different parts:
+        a - Head: title of the post
+        b - Body: the actual containt of the post
+        c - Foot: the time at which the post has been published and the name of the publisher
+    -PostBlog: on this page, we will be able to post a new post. It is a form element  with all different sections for the post properties
+    -About: this page display all of the informations aboout the app itself
